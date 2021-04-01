@@ -5,7 +5,7 @@ import time
 
 client = commands.Bot(command_prefix = "t!", help_command=None)
 
-Token = "ODI1MzQ0ODM5MDQ1NzQyNjMy.YF8kRw.pRul-ixFTWEP_Us4UBRk1jpuS5U"
+Token = "my_token"
 
 @client.event
 async def on_ready():
