@@ -1,0 +1,15 @@
+Nama							: Contoh
+Tanggal Deadline				: Rabu,15/02/2012
+Waktu Deadline				  : 05.55AM
+
+
+Nama							: Data
+Tanggal Deadline				: Senin,11/11/2000
+Waktu Deadline				  : 10.50PM
+
+
+Nama							: NewThing
+Tanggal Deadline				: Senin,11/11/2000
+Waktu Deadline				  : 05.05PM
+
+
